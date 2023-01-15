@@ -2,6 +2,8 @@
 
 ![CI](https://github.com/Serg1811/ahj_2_1/actions/workflows/web.yml/badge.svg)
 
+https://serg1811.github.io/ahj_2_1/
+
 ### Перемещение элемента
 
 #### Легенда
